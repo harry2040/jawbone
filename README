@@ -1,0 +1,5 @@
+This project is a small hack about monitoring Blood Sugar levels using the Jawbone Up.
+The way this works is, every morning when you wake up you need to add your sugar reading into a comment under the sleep activity. This python program then connects online to your jawbone account, downloads the data and plots them on a matplotlib.
+
+Once you are under a routine of adding your sugar level reading under the comments section, the graph would have more points.
+
